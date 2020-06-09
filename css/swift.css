@@ -7,7 +7,7 @@ body{
 }
 header{
 	background-color: white;
-	text-align: center;
+	text-align: left;
 }
 header h1{
 	 color: black;
@@ -15,7 +15,7 @@ header h1{
 
 main{
 	max-width: 800px;
-	text-align: center;
+	text-align: left;
 	margin: 0 auto;
 	padding: 0 20px;
 }
