@@ -51,8 +51,11 @@ footer{
 	background-color: grey;
 	text-align: center;
 	color: #6EF801;
-	padding: 30px;
+	padding: 20px;
+	font-size: 20px;
 }
+
+
 footer p{
 	margin: 0;
 }
